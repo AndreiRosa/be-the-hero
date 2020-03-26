@@ -4,7 +4,7 @@
 </h3>
 <br>
 
-### :rocket: Tecnologias
+### :rocket: Tecnologias utilizadas
 
 Este projeto foi desenvolvido usando as seguintes tecnologias:
 
@@ -21,3 +21,9 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
 ### 💻 Projeto
 
 Be The Hero é um projeto que visa conectar pessoas que estão dispostas a ajudar financeiramente ONGs.
+
+<br>
+
+💬 Fale comigo
+------------------
+[*LinkedIn*](https://www.linkedin.com/in/andreifrosa)
