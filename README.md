@@ -15,6 +15,9 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
+- [Jest](https://jestjs.io/)
+- [Celebrate](https://github.com/arb/celebrate)
+- [Supertest](https://github.com/visionmedia/supertest)
 
 <br>
 
